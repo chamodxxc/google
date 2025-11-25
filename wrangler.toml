@@ -1,8 +1,9 @@
-name = "google-search-api-chamod"
+name = "google-search-api"
 main = "index.js"
 compatibility_date = "2024-01-01"
 
+
 [vars]
-API_KEY = "REPLACE_WITH_YOUR_GOOGLE_API_KEY"
-CX_ID = "REPLACE_WITH_YOUR_CX_ID"
+API_KEY = "AIzaSyB6HpEVkEvrexlhUFiwZii9R7dCqVEkBjk"
+CX_ID   = "a3a45013127e34795"
 CREATOR = "Chamod Nimsara"
