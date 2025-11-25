@@ -1,0 +1,8 @@
+{
+  "name": "google-search-api-chamod",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "latest"
+  }
+}
